@@ -5,7 +5,7 @@ Waddle Forever está compuesto por un emulador de servidor localhost para Club P
 Su objetivo principal es ofrecer una experiencia de speedrunning accesible, un sandbox accesible de Club Penguin y, en el futuro, un modo de un solo jugador completo, además del archivo de fiestas y eventos.
 
 > [!IMPORTANT]
-> Arvhivos de club penguin rewrittenarchives (https://rewrittenarchives.fandom.com/wiki/Mountain_Expedition_2021)
+> Arvhivos de club penguin rewrittenarchives (https://rewrittenarchives.fandom.com/wiki/Parties_%26_Events)
 > 
 > Arvhivos de club penguin SWF completo pero sin descarga, pero bien organizado (https://www.clubpenguinwiki.info/wiki/Puffle_Creatures)
 > 
